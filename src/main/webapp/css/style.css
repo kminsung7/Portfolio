@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+header{
+	font-size: 30px;
+	height: 150px;
+	line-height: 150px;
+}
+
+section{
+	width: 70%;
+	margin : auto;
+}
+
+.register{
+	margin-left: 48%;	
+}
+
+.display_non{
+	display : none;
+}
+
+.float{
+	float : left;
+	margin-left: 10px;
+}
+
+.type{
+	height : 100px;
+	line-height: 100px;
+	background-color : skyblue;
+	vertical-align:text-top;
+}
+
+.list{
+	height : 120px;
+	line-height: 60px;
+	background-color : #559bfa;
+	margin-top : 10px;
+}
