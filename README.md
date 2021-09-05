@@ -14,5 +14,5 @@
 ![reg](https://user-images.githubusercontent.com/39147446/131352034-e7aeff59-4e7c-4ded-a13e-c4cdaf0b81a8.PNG)
 
 * ### 다음은 메인 화면에서 TODO와 DOING의 내용을 각각 하나씩 오른쪽으로 옮겼다.
-  * ajax를 통하여 비동기 작업으로 목록 탭이 이동하도록 구현했다.
+  * -> 버튼을 클릭하면 ajax를 통하여 비동기 작업으로 목록 탭이 이동하도록 구현했다.
   ![main2](https://user-images.githubusercontent.com/39147446/131352042-0fe5b2ad-5dfa-4858-aed9-76f11563307f.PNG)
